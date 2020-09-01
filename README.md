@@ -1,6 +1,6 @@
 ### Hi, I'm Josias 👋
 
-<p><em>About Coding</br>
+<p><em>About Coding & Coffee ☕</br>
 </em></p>
 
 [![Twitter: JosiasE_](https://img.shields.io/twitter/follow/JosiasE_?style=social)](https://twitter.com/JosiasE_)
